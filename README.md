@@ -1,27 +1,19 @@
-<h1 align="center">Hello there, I'm Deolu </h1>
+<h1 align="center">Thanks for reviewing</h1>
 <h2 align="center">Backend Engineer</h2>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500"/>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudodeo&label=Profile%20views&color=0e75b6&style=flat" alt="sudodeo" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudodeo&label=Profile%20views&color=0e75b6&style=flat" alt="elitealpha731" /> </p> -->
 
-
-- 🔭 I’m currently working on **[Tabs](https://www.usetabs.app)**
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **AI/ML Engineering**
 
 - 📫 How to reach me: [Email](mailto:sudodeo@gmail.com)
 
-- 💬 Ask me about: Python, Botting, Web Automation, Web scraping, APIs
+- 💬 Ask me about: Full Stack Development, Discord/Telegram Bots, Automation , Web Scraping , APIs, Blockchain, Mobile Apps
 
 - 👯 Open to collaborations, contact me 👍
 
-- ⚡ Fun fact: I'm a musician 
+- ⚡ Fun fact: I'm a football fan 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/deolu_ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deolu_ad" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/adeoluwa-adesola-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeoluwa-adesola-dev" height="30" width="40" /></a>
-<a href="https://discord.com/users/741308876204408854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="grim.reaper" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><div> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="python"/> </a> 
