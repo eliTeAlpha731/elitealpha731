@@ -37,7 +37,7 @@
 </div></p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudodeo&layout=compact&theme=gotham&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitealpha731&layout=compact&theme=gotham&langs_count=6">
 
 [![elitealpha731's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grim_reaper&layout=compact&theme=gotham&langs_count=6&custom_title=elitealpha731's%20wakatime%20weekly%20stats&ra&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
