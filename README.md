@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: Telegram_ID:@elite_0731
 
-- 💬 Ask me about: Full Stack Development, Discord/Telegram Bots, Automation , Web Scraping , APIs, Blockchain, Mobile Apps
+- 💬 Ask me about: Full Stack and DevOps Development, Discord/Telegram Bots, Automation , Web Scraping , APIs, Blockchain, Mobile Apps
 
 - 👯 Open to collaborations, contact me 👍
 
