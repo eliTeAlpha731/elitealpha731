@@ -1,5 +1,5 @@
 <h1 align="center">Thanks for reviewing</h1>
-<h2 align="center">Full Stack&Mobile Developer</h2>
+<h2 align="center">Full Stack&DevOps Developer</h2>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500"/>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudodeo&label=Profile%20views&color=0e75b6&style=flat" alt="elitealpha731" /> </p> -->
