@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **I am seekign to search AI/ML Engineering**
 
-- 📫 How to reach me: Telegram_ID:@elite_0731
+- 📫 How to reach me: Telegram_ID:@alpha00766
 
 - 💬 Ask me about: Full Stack and DevOps Development, Discord/Telegram Bots, Automation , Web Scraping , APIs, Blockchain, Mobile Apps
 
