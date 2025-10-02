@@ -1,10 +1,12 @@
 <h1 align="center">Thanks for reviewing</h1>
-<h2 align="center">Full Stack & AI Engineer</h2>
+<h2 align="center">Full Stack Engineer</h2>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500"/>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudodeo&label=Profile%20views&color=0e75b6&style=flat" alt="elitealpha731" /> </p> -->
 
-- 🌱 I’m currently learning **I am seekign to search AI/ML Engineering**
+- 🌱 I’m currently learning **I am seeking to search AI/ML Engineering**
+
+- 👯My main tech stack is JavaScript, Ruby and PHP. Currently I am interested in AI.
 
 - 💬 Ask me about: Full Stack and DevOps Development, Discord/Telegram Bots, Automation , Web Scraping , APIs, Blockchain, Mobile Apps
 
