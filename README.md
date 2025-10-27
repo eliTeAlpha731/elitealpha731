@@ -4,15 +4,14 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudodeo&label=Profile%20views&color=0e75b6&style=flat" alt="elitealpha731" /> </p> -->
 
-- 🌱 I’m currently learning **I am seeking to search AI/ML Engineering**
+🌱 I’m currently focusing on AI/ML Engineering and Python-based development, exploring topics like Deep Learning, NLP, and Data Science.
 
-- 👯My main tech stack is JavaScript, Ruby and PHP. Currently I am interested in AI.
+💻 My main tech stack is Python (FastAPI, Flask, Django) and Machine Learning tools such as TensorFlow, PyTorch, and Scikit-learn.
+I also have experience with JavaScript, Ruby, and PHP, giving me a solid full-stack foundation.
 
-- 💬 Ask me about: Full Stack and DevOps Development, Discord/Telegram Bots, Automation , Web Scraping , APIs, Blockchain, Mobile Apps
+💬 Ask me about: AI/ML projects, data automation, APIs, web scraping, backend systems, and model deployment (Docker/AWS).
 
-- 👯 Open to collaborations, contact me 👍
-
-- ⚡ Fun fact: I'm a football fan 
+🤝 Open to collaborations on AI tools, intelligent assistants, or data-driven web apps.
 
 
 <h3 align="left">Languages and Tools:</h3>
